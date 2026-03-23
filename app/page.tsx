@@ -1,8 +1,15 @@
 export default function Home() {
   const cars = [
     { name: "Toyota Prado", price: "KES 4.5M", image: "/car1.jpg" },
-    { name: "Mazda CX-5", price: "KES 2.8M", image: "/car2.jpg" },
-    { name: "Subaru Forester", price: "KES 2.2M", image: "/car3.jpg" },
+    { name: "Mazda CX-5", price: "KES 2.8M", image: "/car2.webp" },
+    { name: "Subaru Forester", price: "KES 2.2M", image: "/image.png" },
+    { name: "Toyota Prado", price: "KES 4.5M", image: "/car1.jpg" },
+    { name: "Mazda CX-5", price: "KES 2.8M", image: "/car2.webp" },
+    { name: "Subaru Forester", price: "KES 2.2M", image: "/image.png" },
+    { name: "Toyota Prado", price: "KES 4.5M", image: "/car1.jpg" },
+    { name: "Mazda CX-5", price: "KES 2.8M", image: "/car2.webp" },
+    { name: "Subaru Forester", price: "KES 2.2M", image: "/image.png" },
+    
   ];
 
   return (
